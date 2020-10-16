@@ -1,0 +1,76 @@
+\tname\tcity\tuni\tWG
+0\tWalter Daelemans\tAntwerpen\tUniversiteit Antwerpen\t"WG1\t WG2"
+1\tTomaz Erjavec\tLjubljana\tJožef Stefan Institute\t"WG1\t WG2"
+2\tStefano Ondelli\tTrieste\tUniverity of Trieste\t"WG1\t WG3"
+3\tSilvie Cinkova\tPraha\tCharles University\t"WG1\t WG2"
+4\tSerge Heiden\tLyon\tÉcole Normale Supérieure de Lyon\t"WG1\t WG2"
+5\tRocco Coronato\tPadua\tUniversity of Padua\t"WG1\t WG3"
+6\tRaquel Amaro\tLisbon\tFaculdade de Ciências Sociais e Humanas\t"WG1\t WG2"
+7\tPieter Francois\tOxford\tUniversity of Oxford\t"WG1\t WG3"
+8\tNeven Jovanovic\tZagreb\t University of Zagreb\tWG1
+9\tMichal Křen\t\t\t"WG1\t WG2"
+10\tMeliha Handzic\tSarajevo\tInternational Burch University\t"WG1\t WG2"
+11\tMartina Scholger\tGraz\tUniversität Graz\tWG1
+12\tMaciej Eder\tKrakow\tInstitute of Polish Language\t"WG1\t WG2\t WG4"
+13\tLuiza Catrinel Marinescu\tBucharest\tUniversity Spiru Haret Bucharest\t"WG1\t WG3\t WG4"
+14\tLou Burnard\tUnited Kingdom\t\tWG1
+15\tJoel Azzopardi\tBlagoevgrad\tSouth-West University\t"WG1\t WG2"
+16\tJasmina Djonlagic Smailbegovic\tTuzla\tUniversity of Tuzla\t"WG1\t WG3"
+17\tJan Rybicki\tKrakow\t\t"WG1\t WG2\t WG3"
+18\tGeorge Mikros\tAthens\tNational and Kapodistrian University of Athens\t"WG1\t WG2"
+19\tGeorg Vogeler\tGraz\tUniversität Graz\tWG1
+20\tGábor Palkó\tBudapest\tEötvös Loránd University\t"WG1\t WG2\t WG3"
+21\tEva Eglaja-Kristsone\tRiga\tUniversity of Latvia\t"WG1\t WG2\t WG3"
+22\tDragana Marinković-Dubljević\tPodgorica\tMontenegrin Academy of Sciences and Arts\t"WG1\t WG3"
+23\tDiana Santos\tOslo\tUniversity of Oslo\t"WG1\t WG2\t WG3"
+24\tCvetana Krstev\tBelgrade\t Faculty of Philology\t"WG1\t WG2"
+25\tCorina Koolen\t\t\tWG1
+26\tChristof Schöch\tTrier\tUniversität Trier\t"WG1\t WG2\t WG3\t WG4"
+27\tChristian-Emil Ore\tOslo\tUniversity of Oslo -Dept. of Lingustics and Scandinavian Studies\tWG1
+28\tCarolin Odebrecht\tBerlin\t HU Berlin\t"WG1 lead"
+29\tBorja  Navarro-Colorado\tAlicante\tUniversity of Alicante - Departamento de Lenguajes y Sistemas Informáticos\t"WG1\t WG2"
+30\tBerenike Herrmann\tBasel\tBasel University\t"WG1\t WG2"
+31\tArjuna Tuzzi\tPadova\t Sociology. Education & Applied Psychology\t"WG1\t WG2"
+32\tArianna Ciula\tLondon\tKing's College London\t"WG1\t WG2"
+33\tAnna-Maria Sichani\tLondon\tKing's Digital Laboratory\tWG1
+34\tAnke Lüdeling\tBerlin\tHUB\t"WG1\t WG2"
+35\tYaakov Hacohen-Kerner\tJerusalem\tJerusalem College of Technology (Machon Lev)\t"WG2\t WG3"
+38\tStefano Sbalchiero\tPadova\tUniversity of Padova\tWG2
+39\tSimone Rebora\tBasel\tDigital Humanities Lab\tWG2
+42\tSaulius Keturakis\tKaunas\tKaunas University of Technology\t"WG2\t WG3"
+44\tRanka Stankovic\tBelgrade\tUniversity of Belgrade - Faculty of Mining and Geology\t"WG2\t WG4"
+45\tPavel Smrz\tBrno\tBrno University of Technology\tWG2
+46\tPaulo Silva Pereira\tCoimbra\tUniversity of Coimbra\t"WG2\t WG3"
+47\tMike Kestemont\tAntwerp\tUniversity of Antwerp\t"WG2\t WG3"
+50\tMaría Dolores Jiménez-Lopéz\tTarragona\tUniversitat Rovira i Virgili\tWG2
+51\tMaciej Maryl\tWarsaw\tInstytut Badan Literackich Polskiej Akademii Nauk ibl Pan\t"WG2\t WG3"
+53\tKruna Ratkovic\tPodorica\tUniversity of Donja Gorica\tWG2
+55\tJoanna Byszuk\tKrakow\tInstitute of Polish Language\tWG2
+57\tIsabel Rute Araújo Branco\tLisboa\tUniversidade Nova de Lisboa\t"WG2\t WG3"
+60\tFotis Jannidis\tWürzburg\tUniversität Würzburg\t"WG2\t WG3"
+62\tDobrinka Peicheva\tBlagoevgrad\tSouth-West University\tWG2
+63\tDirk Van Hulle\tAntwerpen\t\t"WG2\t WG3"
+68\tBjorn-Olav Dozo\tLiège\tUniversity of Liège\tWG2
+69\tBiljana Stamatovic\tPodgorica\tUniversity of Donja Gorica\t"WG2\t WG4"
+71\tBenedikt Perak\tRijeka\tFaculty of Humanities and Social Sciences\tWG2
+72\tBénédicte Pincemin\tENS Lyon\tCNRS Delegation regionale Rhone Auvergne\tWG2
+76\tAndrius Suminas\tLithuania\t Faculty of Communication\t"WG2\t WG4"
+77\tAleš Vaupotič\tNova Gorica\tUniversity of Nova Gorica\t"WG2\t WG3"
+79\tSusan Schreibman\tMaynooth\tNational University of Ireland\tWG3
+82\tRoxana Patras\tIasi\tAlexandru Ioan Cuza University of Iasi\tWG3
+83\tRosario Arias\tMálaga\tUniversity of Málaga\tWG3
+88\tMassimo Salgaro\tVerona\tUniversity of Verona\tWG3
+89\tMarko Juvan\tLjubljana\t Research Centre of the Slovenian Academy of Sciences and Arts\tWG3
+90\tMarina Protrka Štimec\tZagreb\tUniversity of Zagreb\tWG3
+91\tMaría José Vega\tBellaterra Barcelona\t Facultat de Lletres\tWG3
+92\tMarc Kosciejew\tMsida\t Faculty of Media and Knowledge Science\tWG3
+95\tKarina van Dalen-Oskam\tDen Haag\tRoyal Netherlands Academy of Arts and Sciences (KNAW)\tWG3
+96\tJustin Tonra\tGalway\tNational University of Ireland\t"WG3\t WG4"
+97\tJessie Labov\tBudapest\tCentral European University\tWG3
+101\tGerardine Meaney\tDublin\tUCD Humanities Institute Belfield\tWG3
+108\tDavor Nicolić\tZagreb\tFaculty of Humanities and Social Sciences\tWG3
+109\tCorina-Elena Moldovan\tCluj-Napoca\tBabes-Bolyai University\t"WG3\t WG4"
+111\tAntonija Primorac\tRijeka\tUniversity of Rijeka\tWG3
+113\tVoica Puscasiu\tCluj-Napoca\t"Universitatea ""Babes-Bolyai"""\tWG4
+117\tKatja Mihurko-Poniž\tNova Gorica\tUniversity of Nova Gorica\tWG4
+121\tCatherine Kanellopoulou\tCorfu\tIonion University\tWG4
